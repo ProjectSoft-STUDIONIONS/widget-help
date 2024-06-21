@@ -1,0 +1,20 @@
+{
+  "name": "widget-help",
+  "version": "1.0.0",
+  "description": "\"Ветка для сборки страницы\"",
+  "main": "index.js",
+  "scripts": {
+    "inst": "npm i",
+	"page": "echo PAGE && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectSoft-STUDIONIONS/widget-help.git"
+  },
+  "author": "ProjectSoft <projectsoft2009@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProjectSoft-STUDIONIONS/widget-help/issues"
+  },
+  "homepage": "https://github.com/ProjectSoft-STUDIONIONS/widget-help#readme"
+}
