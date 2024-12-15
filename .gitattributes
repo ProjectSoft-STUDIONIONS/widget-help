@@ -1,0 +1,14 @@
+* text=auto
+
+/src export-ignore
+/LICENSE export-ignore
+/.* export-ignore
+/*.sublime-* export-ignore
+/*.json export-ignore
+/*.js export-ignore
+/*.md export-ignore
+/*.zip export-ignore
+/*.inf export-ignore
+/*.ini export-ignore
+/*.ico export-ignore
+/*.png export-ignore
